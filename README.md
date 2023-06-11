@@ -13,4 +13,4 @@
 - 🤔 Oyunun genel amacı verilen kordinatları işaretleyip şekli bularak bulmacayı çözmek.
 - 🎨 Kordinatları doğru işaretlediğinde sana yardımcı olacak bir şekil oluşabilir :)
 
-<img align="center" alt="GIF" src="https://i.hizliresim.com/mhh3e8i.png" width="284" height="581" />
+<center><img align="center" alt="GIF" src="https://i.hizliresim.com/lktl4up.jpeg" width="284" height="581" /></center>
