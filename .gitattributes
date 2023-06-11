@@ -3,3 +3,4 @@
 *.tex linguist-detectable=false
 *.cpp linguist-detectable=false
 *.c linguist-detectable=false
+Server/sqlite3/* linguist-vendored=false
